@@ -1,2 +1,2 @@
 # Simple-php-CRUD
-php very basci CRUD project
+php very basic CRUD project
